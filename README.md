@@ -22,6 +22,7 @@
 ## Description
 
 Deploy [postfix_exporter](https://github.com/boynux/postfix-exporter) to expose postfix metrics to prometheus.
+
 ## Requirements
 
 none
